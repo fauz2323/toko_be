@@ -61,10 +61,10 @@
                 <div class="collapse" id="sidebarPages2">
                     <ul class="side-nav-second-level">
                         <li>
-                            <a href="">Category</a>
+                            <a href="{{route('admin.product.category')}}">Category</a>
                         </li>
                         <li>
-                            <a href="">Product</a>
+                            <a href="{{route('admin.product.product')}}">Product</a>
                         </li>
                         <li>
                             <a href="">Order</a>
